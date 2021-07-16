@@ -1,0 +1,31 @@
+import React from "react";
+import { StyleSheet } from "react-native";
+import { BaseColor } from "@config";
+
+export default StyleSheet.create({
+  contain: {
+    // alignItems: "center",
+    flex: 1,
+    padding: 20,
+    width: "100%",
+  },
+  textInput: {
+    height: 46,
+    borderRadius: 5,
+    marginTop: 10,
+    padding: 10,
+    width: "100%",
+  },
+  container: {
+    height: 4,
+    flexDirection: "column",
+    justifyContent: "center",
+    alignItems: "center",
+    backgroundColor: "#96F1F9",
+  },
+  progressBar: {
+    flexDirection: "row",
+    height: 4,
+    width: "100%",
+  },
+});

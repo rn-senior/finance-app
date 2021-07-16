@@ -1,0 +1,21 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-quryapp-dev-185552-authRole",
+      "UnauthRoleArn": "arn:aws:iam::504520571552:role/amplify-quryapp-dev-185552-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::504520571552:role/amplify-quryapp-dev-185552-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-quryapp-dev-185552-deployment",
+      "UnauthRoleName": "amplify-quryapp-dev-185552-unauthRole",
+      "StackName": "amplify-quryapp-dev-185552",
+      "StackId": "arn:aws:cloudformation:us-east-1:504520571552:stack/amplify-quryapp-dev-185552/121c99b0-43e8-11eb-a51c-0e92a46f2873",
+      "AmplifyAppId": "d1soagrn8ejb8e"
+    },
+    "categories": {
+      "auth": {
+        "quryapp": {},
+        "userPoolGroups": {}
+      }
+    }
+  }
+}
